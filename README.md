@@ -6,6 +6,7 @@ This repository serves as an index of my programming projects and coursework com
 The projects cover concepts and skills developed throughout that period. The main ones are programming fundamentals, data structures, algorithms, and an introduction to software development. 
 
 Courses: 
+
 CS 225 - Object-Oriented Programming - (Winter 2024)
 Course Description:
 
